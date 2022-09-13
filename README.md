@@ -24,6 +24,7 @@ RECOMMENDED MODULES
 - Scelerisque viverra mauris 
 - Vulputate enim 
 - Nulla aliquet 
+- Porttitor lacus
 
 INSTALLATION
 ------------
